@@ -3,7 +3,9 @@ A CNN classifier for Chinese accents, developed by Zong-You Ke, Dahn Cho and Che
 Final Project for "Neural Network for Speech Recognition" course at Université Sorbonne Nouvelle.
 
 Project objective: Classify and predict speakers from Beijing, Canton and Taipei through CNN model training with audio recordings.
+
 Raw data: Audio recordings from Chinese and Taiwanese speakers on Mozilla Common Voice
+
 Tools: SPPAS, Praat, Keras 
 
 Instructions:
