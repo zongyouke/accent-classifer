@@ -15,5 +15,4 @@ Instructions:
    - "pitch" series: Praat-generated pitch curves generated from the spectrogram dataset.
    - "formant" series: Praat-generated formant curves generated from the spectrogram dataset.
 
-2. Make sure that . 
-
+2. Make sure that you create a shortcut to the file folders in your own Google drive, so that the code can retrieve all the data correctly. 
